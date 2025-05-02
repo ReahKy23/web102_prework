@@ -22,9 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-[Vimeo Link](https://vimeo.com/1080708871?share=copy#t=0)
-[Google Drive video](https://drive.google.com/drive/folders/1DzsPw0Zqj92sNNfhtCPLzeoZ3hq4qG6g?usp=share_link)
-<!-- <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+[Walkthrough Link](https://i.imgur.com/3X36WCD.mp4)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
