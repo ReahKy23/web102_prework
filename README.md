@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *SponserME*
 
-Submitted by: **Your Name Here**
+Submitted by: **Kylah Kerr**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**SponserME** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **6-7** hours spent in total
 
 ## Required Features
 
@@ -23,7 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<video src="./assets/codepath_videowalkthrough.mov" muted loop controls width="600">
+  Your browser does not support the video.
+</video>
+<!-- <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -34,8 +37,8 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+The some of the questions on the offline version are not up to date. The listed character for the secret keys are wrong on 
+a few challenges (either the answer of the character length is different from what's listed)
 ## License
 
     Copyright [yyyy] [name of copyright owner]
