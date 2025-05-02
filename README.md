@@ -23,9 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src="./assets/codepath_videowalkthrough.mov" muted loop controls width="600">
-  Your browser does not support the video.
-</video>
+[My video](https://drive.google.com/drive/folders/1DzsPw0Zqj92sNNfhtCPLzeoZ3hq4qG6g?usp=share_link)
 <!-- <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 <!-- Replace this with whatever GIF tool you used! -->
